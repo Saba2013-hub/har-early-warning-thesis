@@ -22,4 +22,4 @@ Raw data are not shared due to privacy constraints.
 - Downstream risk and anomaly modelling
 
 ## Status
-Ongoing research (Jan–May 2026). Code and documentation will be updated incrementally.
+Ongoing research (Nov–May 2026). Code and documentation will be updated incrementally.
